@@ -27,12 +27,6 @@ export default function AboutPage() {
 
           <blockquote className="space-y-5 border-l border-[#D7D9BF] pl-5 text-[0.82rem] leading-6 text-zinc-700 italic">
             <p>
-              I want to create paintings that feel like a quiet moment in a
-              room, a pause in time, or a fleeting memory. I want to create
-              paintings that hold a feeling over time.
-            </p>
-
-            <p>
               I create paintings about the things that are often felt before
               they are spoken — the quiet complexities of being human, the
               tenderness of memory, and the ways we experience ourselves and one
