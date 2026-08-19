@@ -41,7 +41,7 @@ export default function ShopPage() {
           Original paintings &amp; prints
         </h1>
         <p className="max-w-2xl text-base leading-7 text-zinc-600">
-          Small editions and prints made to live quietly in a room and hold a feeling over time.
+          Selected works available to collect.
         </p>
       </div>
 

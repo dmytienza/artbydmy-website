@@ -17,7 +17,7 @@ export function Nav() {
   const { totalItems } = useCart();
 
   return (
-    <header className={pathname === "/" ? "absolute inset-x-0 top-0 z-30" : "sticky top-0 z-20 bg-white"}>
+    <header className={pathname === "/" ? "relative z-30 bg-white" : "sticky top-0 z-20 bg-white"}>
       <div className="bg-[#636B2F] px-4 py-2 text-center text-[0.6rem] font-medium uppercase tracking-[0.22em] text-white">
         Opening offer: 25% off all works
       </div>
@@ -59,7 +59,7 @@ export function Nav() {
                 <path d="M3 4h2l2.4 9.2a1 1 0 0 0 1 .8h8.9a1 1 0 0 0 .97-.76L20 7H7" />
               </svg>
               {totalItems > 0 && (
-                <span className="inline-flex h-4 min-w-4 items-center justify-center rounded-full bg-white px-1 text-[0.5rem] text-stone-900">
+                <span className="inline-flex h-4 min-w-4 items-center justify-center rounded-full bg-[#636B2F] px-1 text-[0.5rem] text-white">
                   {totalItems}
                 </span>
               )}
