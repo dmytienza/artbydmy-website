@@ -1,0 +1,276 @@
+[
+  {
+    "id": 1,
+    "title": "Quiet Morning",
+    "type": "PRINT",
+    "medium": "Oil",
+    "material": "Archival giclée on cotton rag",
+    "size": ["A4", "A3", "A2"],
+    "format": "Limited edition print",
+    "description": "An archival giclée print inspired by soft morning light and stillness.",
+    "price": 180,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-landscape-a.svg",
+      "/placeholder-landscape-b.svg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Field Notes",
+    "type": "ORIGINAL",
+    "medium": "Gouache",
+    "material": "Gouache on paper",
+    "size": ["Small", "Medium", "Large"],
+    "format": "Original artwork",
+    "description": "Layered gouache study exploring memory, movement, and open space.",
+    "price": 420,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-portrait-a.svg",
+      "/placeholder-portrait-b.svg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Studio Light",
+    "type": "STUDY",
+    "medium": "Watercolor",
+    "material": "Mixed media on archival board",
+    "size": ["A5", "A4", "A3"],
+    "format": "Artist study",
+    "description": "A small-batch edition inspired by warm studio light and reflected color.",
+    "price": 260,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-landscape-a.svg",
+      "/placeholder-portrait-a.svg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Still Water",
+    "type": "PRINT",
+    "medium": "Oil",
+    "material": "Digital pigment print",
+    "size": ["A4", "A3", "A2"],
+    "format": "Archival print",
+    "description": "A restrained palette study balancing atmospheric depth with a calm horizon.",
+    "price": 220,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-landscape-b.svg",
+      "/placeholder-portrait-b.svg"
+    ],
+    "soldOut": true
+  },
+  {
+    "id": 5,
+    "title": "Slow Bloom",
+    "type": "ORIGINAL",
+    "medium": "Watercolor",
+    "material": "Acrylic on canvas",
+    "size": ["30x40cm", "50x60cm"],
+    "format": "Original painting",
+    "description": "A quiet, layered composition investigating warmth, timing, and soft movement.",
+    "price": 480,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-landscape-a.svg",
+      "/placeholder-landscape-b.svg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "At the Edge",
+    "type": "STUDY",
+    "medium": "Gouache",
+    "material": "Charcoal on paper",
+    "size": ["A5", "A4"],
+    "format": "Study piece",
+    "description": "A spontaneous study on structure, edge, and the tension between air and weight.",
+    "price": 160,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-portrait-a.svg",
+      "/placeholder-landscape-b.svg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Night Window",
+    "type": "OTHERS",
+    "medium": "Oil",
+    "material": "Archival print on matte paper",
+    "size": ["A3", "A2"],
+    "format": "Signed print",
+    "description": "A moody nocturnal piece exploring silence, shadow, and reflected architecture.",
+    "price": 240,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-portrait-b.svg",
+      "/placeholder-landscape-a.svg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Nocturne",
+    "type": "ORIGINAL",
+    "medium": "Watercolor",
+    "material": "Oil and graphite on linen",
+    "size": ["Medium", "Large"],
+    "format": "Original painting",
+    "description": "An atmospheric work built from restrained marks and soft tonal transitions.",
+    "price": 560,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-landscape-b.svg",
+      "/placeholder-portrait-a.svg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "North Window",
+    "type": "PRINT",
+    "medium": "Oil",
+    "material": "Archival pigment print on matte stock",
+    "size": ["A5", "A4", "A3"],
+    "format": "Edition of 25",
+    "description": "A pale, open composition shaped by light, silence, and a slow horizon.",
+    "price": 210,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-landscape-a.svg",
+      "/placeholder-portrait-b.svg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Juniper Study",
+    "type": "STUDY",
+    "medium": "Gouache",
+    "material": "Gouache on paper",
+    "size": ["A5", "A4"],
+    "format": "Study painting",
+    "description": "A compact tonal study using sparse structure and layered memory.",
+    "price": 170,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-landscape-b.svg",
+      "/placeholder-portrait-a.svg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Soft Fold",
+    "type": "ORIGINAL",
+    "medium": "Oil",
+    "material": "Oil on linen",
+    "size": ["Small", "Medium"],
+    "format": "Original artwork",
+    "description": "Folded color and soft edges create a quiet, tactile rhythm in motion.",
+    "price": 500,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-portrait-a.svg",
+      "/placeholder-landscape-b.svg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Hush Line",
+    "type": "OTHERS",
+    "medium": "Watercolor",
+    "material": "Signed print on archival rag",
+    "size": ["A4", "A3"],
+    "format": "Limited signed print",
+    "description": "A restrained study of line, atmosphere, and stillness in negative space.",
+    "price": 230,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-landscape-a.svg",
+      "/placeholder-portrait-b.svg"
+    ],
+    "soldOut": true
+  },
+  {
+    "id": 13,
+    "title": "Ashen Tide",
+    "type": "PRINT",
+    "medium": "Oil",
+    "material": "Digital pigment on cotton rag",
+    "size": ["A4", "A3", "A2"],
+    "format": "Archival edition",
+    "description": "An atmospheric composition built from muted tonal shifts and quiet depth.",
+    "price": 240,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-landscape-b.svg",
+      "/placeholder-portrait-a.svg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Glass Light",
+    "type": "STUDY",
+    "medium": "Watercolor",
+    "material": "Watercolor and ink on paper",
+    "size": ["A5", "A4"],
+    "format": "Color study",
+    "description": "A fragile study of brightness, reflection, and the tension of translucent color.",
+    "price": 150,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-portrait-b.svg",
+      "/placeholder-landscape-a.svg"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Window Bloom",
+    "type": "ORIGINAL",
+    "medium": "Gouache",
+    "material": "Gouache on board",
+    "size": ["Medium", "Large"],
+    "format": "Original painting",
+    "description": "Sunlit color settles into a slower rhythm, leaving room for air and memory.",
+    "price": 640,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-landscape-a.svg",
+      "/placeholder-portrait-a.svg"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Stone hush",
+    "type": "PRINT",
+    "medium": "Oil",
+    "material": "Archival print on handmade paper",
+    "size": ["A4", "A3"],
+    "format": "Studio print",
+    "description": "A quiet surface study shaped by mineral tones and slow atmospheric drift.",
+    "price": 190,
+    "image": "/placeholder-art.svg",
+    "images": [
+      "/placeholder-art.svg",
+      "/placeholder-landscape-b.svg",
+      "/placeholder-portrait-b.svg"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Quiet Morning",
+    "medium": "Oil on linen",
+    "category": "ORIGINALS",
+    "image": "/placeholder-landscape-a.svg",
+    "year": 2024
+  },
+  {
+    "id": 2,
+    "title": "Field Notes",
+    "medium": "Gouache on paper",
+    "category": "STUDY",
+    "image": "/placeholder-portrait-a.svg",
+    "year": 2023
+  },
+  {
+    "id": 3,
+    "title": "Studio Light",
+    "medium": "Mixed media",
+    "category": "OTHERS",
+    "image": "/placeholder-landscape-b.svg",
+    "year": 2025
+  },
+  {
+    "id": 4,
+    "title": "Still Water",
+    "medium": "Digital study",
+    "category": "PRINTS",
+    "image": "/placeholder-portrait-b.svg",
+    "year": 2022
+  },
+  {
+    "id": 5,
+    "title": "Slow Bloom",
+    "medium": "Acrylic on canvas",
+    "category": "ORIGINALS",
+    "image": "/placeholder-landscape-a.svg",
+    "year": 2024
+  },
+  {
+    "id": 6,
+    "title": "At the Edge",
+    "medium": "Charcoal on paper",
+    "category": "STUDY",
+    "image": "/placeholder-portrait-a.svg",
+    "year": 2021
+  },
+  {
+    "id": 7,
+    "title": "Night Window",
+    "medium": "Archival print",
+    "category": "PRINTS",
+    "image": "/placeholder-landscape-b.svg",
+    "year": 2024
+  },
+  {
+    "id": 8,
+    "title": "Nocturne",
+    "medium": "Oil and graphite",
+    "category": "OTHERS",
+    "image": "/placeholder-portrait-b.svg",
+    "year": 2023
+  }
+]

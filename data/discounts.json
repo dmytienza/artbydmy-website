@@ -1,0 +1,21 @@
+[
+  {
+    "id": "global-opening-offer",
+    "description": "Opening studio sale",
+    "amount": 25,
+    "dateAdded": "2025-01-01T00:00:00.000Z",
+    "dateFrom": "2025-01-01T00:00:00.000Z",
+    "dateTo": "2026-12-31T23:59:59.000Z",
+    "scope": "global"
+  },
+  {
+    "id": "prints-10-off",
+    "description": "Print collection seasonal offer",
+    "amount": 10,
+    "dateAdded": "2025-01-01T00:00:00.000Z",
+    "dateFrom": "2025-01-01T00:00:00.000Z",
+    "dateTo": "2026-12-31T23:59:59.000Z",
+    "scope": "category",
+    "category": "PRINT"
+  }
+]
